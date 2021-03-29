@@ -4,7 +4,7 @@ A webscrapper to extract jobs posted on indeed.com and store it into csv file.
 
 ![image](https://user-images.githubusercontent.com/80902649/112814366-d8b57280-909c-11eb-8a43-65f60e91c43f.png)
 
-BeautifulSoup, one of the most favoured Python's module, is been used for Web Scraping this code.
+BeautifulSoup, one of the most favored Python's module, is been used for Web Scraping this code.
 The code scrapes the information of jobs posted on indeed.com with the given input as position and location.
 
 # Programming Language:
