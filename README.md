@@ -13,10 +13,10 @@ Python Version 3.8.1
 
 # Libraries/Modules:
 
-requests (To make HTTP Requests to fetch data)
-BeautifulSoup (To extract/scrape data from websites)
-datetime (To extract date)
-csv (To store the extracted result in csv file)
+1. requests (To make HTTP Requests to fetch data)
+2. BeautifulSoup (To extract/scrape data from websites)
+3. datetime (To extract date)
+4. csv (To store the extracted result in csv file)
 
 # Setup:
 
