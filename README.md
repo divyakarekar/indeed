@@ -21,9 +21,9 @@ Python Version 3.8.1
 # Setup:
 
 1. Clone the repository to your local environment using git.
-2. Install the below libraries/modules required to run the program.
-   pip install requests
-   pip install BeautifulSoup
+2. Install the below libraries/modules required to run the program:
+
+   pip install requests, pip install BeautifulSoup
 3. Enter the position and location of the job to be searched while running the main method.
 4. Once the packages are installed, the application indeed.py can be run from the command prompt / terminal.
    python scrapper.py
